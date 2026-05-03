@@ -1,3 +1,4 @@
+![banner](https://github.com/maxmirkhn/maxmirkhn/blob/main/Green%20White%20Geometric%20Web%20Developer%20Presentation%20(1).png)
 # 👋 Mohd Amir Khan
 ### ⚡ Building fast, privacy-first web apps that actually work
 
