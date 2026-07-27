@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/maxmirkhn/maxmirkhn/blob/main/Green%20White%20Geometric%20Web%20Developer%20Presentation%20(1).png" alt="banner" width="100%" />
+<img src="https://github.com/maxmirkhn/maxmirkhn/blob/main/github-banner.png" alt="Mohd Amir Khan banner" width="100%" />
 
 # Mohd Amir Khan
 
